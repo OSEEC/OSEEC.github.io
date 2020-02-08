@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+<h1 id="oseec">OSEEC</h1>
+<p>Open-source Social Engineering Education Course</p>
+<p>Written and created by: Edward Miro - Associate Faculty, Butte College</p>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Contact Email](mailto:mirolabssec@protonmail.com)
