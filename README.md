@@ -5,7 +5,6 @@ Written and created by: Edward Miro - Associate Faculty, Butte College
 <br>
 
 ### To Do:
-- Podcasts/Youtube List
 - Syllabus
 - Write Lectures/Quizzes/Discussion/Lab
 - Make slides
