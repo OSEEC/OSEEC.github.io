@@ -9,7 +9,7 @@ permalink: /booklist/
 
 **Required reading:**
 
-Carnegie, Dale. __How to Win Friends and Influence People__. Simon and Schuster, 2009.
+Carnegie, Dale. <u>How to Win Friends and Influence People</u>. Simon and Schuster, 2009.
 
 Dreeke, Robin, et al. __The Code of Trust: an American Counterintelligence Expert&#39;s Five Rules to Lead and Succeed__. St. Martins Griffin, 2019.
 
