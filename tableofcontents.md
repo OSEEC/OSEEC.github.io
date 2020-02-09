@@ -3,7 +3,7 @@ layout: page
 title: Table of Contents
 permalink: /tableofcontents/
 ---
-- [Special Thanks](/thankyou/)
+- [Special Thanks](/thankyou)
 - [Syllabus](/syllabus)
 - [Book List](/booklist)
 - [Streaming Media List](/streaming)
