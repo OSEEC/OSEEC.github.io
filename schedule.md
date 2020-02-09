@@ -21,7 +21,7 @@ permalink: /schedule/
 	}
 </style>
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>---Week---|</th><th>---Unit---|</th><th>Reading</th><th>Assignments</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>Week</th><th>Unit</th><th>Reading</th><th>Assignments</th></tr></thead><tbody>
  <tr><td>1</td><td>A</td><td>How To...Part 1, Sections 1-3</td><td>Discussion response, lab</td></tr>
  <tr><td>&nbsp;</td><td>&nbsp;</td><td>How To...Part 2, Sections 1-3</td><td>Discussion response, lab</td></tr>
  <tr><td>2</td><td>&nbsp;</td><td>How To...Part 2, Sections 4-6</td><td>Discussion response, lab</td></tr>
