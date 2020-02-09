@@ -1,7 +1,7 @@
 ---
 layout: page
-title: OSEEC Table of Contents
-permalink: /tableofcontents/
+title: OSEEC Contents
+permalink: /contents/
 ---
 - [Special Thanks](/thankyou)
 - [Syllabus](/syllabus)
