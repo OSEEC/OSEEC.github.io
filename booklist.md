@@ -1,12 +1,8 @@
 ---
 layout: page
-title: Book List
+title: OSEEC Book List
 permalink: /booklist/
 ---
-**OSEEC Book List**
-
-
-
 **Required reading:**
 
 Carnegie, Dale. <u>How to Win Friends and Influence People</u>. Simon and Schuster, 2009.
