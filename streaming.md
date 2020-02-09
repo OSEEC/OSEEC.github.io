@@ -4,7 +4,6 @@ title: Streaming Media List
 permalink: /streaming/
 ---
 <hr>
-<h2> Index: </h2> 
 > * [Podcasts](#podcasts)<br>
 > * [YouTube](#youtube)<br>
 <hr>
