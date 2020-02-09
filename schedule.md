@@ -3,7 +3,7 @@ layout: page
 title: OSEEC Schedule
 permalink: /schedule/
 ---
-| Week | Unit | Reading                                | Assignments              |
+| Week    | Unit    | Reading                                | Assignments              |
 |:-------:|:-------:|----------------------------------------|--------------------------|
 | 1    | A    | How To...Part 1, Sections 1-3          | Discussion response, lab |
 |      |      | How To...Part 2, Sections 1-3          | Discussion response, lab |
