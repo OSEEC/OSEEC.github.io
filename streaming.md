@@ -10,7 +10,7 @@ permalink: /streaming/
 <hr>
 <a name="podcasts"></a>
 <h2> Podcasts </h2> 
-[<img src="/images/thumbs/2.png" width="100" height="100">](https://www.social-engineer.org/category/podcast/)
+[<img src="/images/thumbs/2.PNG" width="100" height="100">](https://www.social-engineer.org/category/podcast/)
 [<img src="/images/thumbs/6.png" width="100" height="100">](https://thecyberwire.com/podcasts/hacking-humans.html)
 <br>
 <hr>
