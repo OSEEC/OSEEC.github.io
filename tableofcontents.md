@@ -3,18 +3,18 @@ layout: page
 title: Table of Contents
 permalink: /tableofcontents/
 ---
-[Special Thanks](/thankyou/)
-[Syllabus](/syllabus)
-[Book List](/booklist)
-[Streaming Media List](/streaming)
-[Schedule](/schedule)
+- [Special Thanks](/thankyou/)
+- [Syllabus](/syllabus)
+- [Book List](/booklist)
+- [Streaming Media List](/streaming)
+- [Schedule](/schedule)
 <br>
-Unit A - Carnegie
-Week 1
-Week 2
-Week 3
-Week 4
-Week 5
+- Unit A - Carnegie
+  - Week 1
+  - Week 2
+  - Week 3
+  - Week 4
+  - Week 5
 
 Unit B - Dreeke
 Week 6
