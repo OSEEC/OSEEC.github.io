@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Streaming Media List
-permalink: /streaming_media/
+permalink: /streaming/
 ---
 <hr>
 <h2> Index: </h2> 
