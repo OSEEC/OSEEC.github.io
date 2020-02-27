@@ -4,7 +4,6 @@ title: OSEEC Contents
 permalink: /contents/
 ---
 - [Special Thanks](/thankyou)
-- [Syllabus](/syllabus)
 - [Book List](/booklist)
 - [Streaming Media List](/streaming)
 - [Schedule](/schedule)
@@ -30,7 +29,7 @@ permalink: /contents/
   - Week 13
   - Week 14
 <br>
-- Guest Speaker/Special Event
+- Special Event
   - Week 15
 <br>
 <br><br><br>
