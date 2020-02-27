@@ -3,12 +3,6 @@ Open-source Social Engineering Education Course
 
 Written and created by: Edward Miro - Associate Faculty, Butte College
 <br>
-
-### To Do:
-- Syllabus
-- Write Lectures/Quizzes/Discussion/Lab
-- Make slides
-- Record lectures
 <br>
 <br>
 <br>
