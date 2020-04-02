@@ -14,7 +14,7 @@ Students will be guided through the study of 3 integral texts in this area:
 <li><p>Hadnagy, Christopher. <u>Social Engineering: the Science of Human Hacking</u>. Wiley, 2018.</p></li> 
 As students progress through each required reading, written responses and exercises will be included to reinforce the learning and give them an opportunity to get hands on experience. 
 <br>
-### Contact me
+### About Me
 
 [Email](mailto:mirolabssec@protonmail.com)<br><br>
 <img src="/images/thumbs/OSEEC.PNG" alt="OSEEC" width="200" height="200">
