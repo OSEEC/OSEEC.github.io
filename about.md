@@ -4,7 +4,7 @@ title: About OSEEC
 permalink: /about/
 ---
 <p>Open-source Social Engineering Education Course</p>
-<p>Written and created by: Edward Miro - Associate Faculty, Butte College</p>
+<p>Written and created by: <a href="c1ph0r.github.io"><Edward Miro - Associate Faculty, Butte College></a></p>
 
 ### Contact me
 
