@@ -15,6 +15,8 @@ Hadnagy, Christopher. <u>Social Engineering: the Science of Human Hacking</u>. W
 
 **Recommended reading:**
 
+Cialdini, Robert B. <u>Influence: The Psychology of Persuasion, Revised Edition</u>. Harper Business, 2006.
+
 Hadnagy, Christopher, and Fincher, Michele. <u>Phishing Dark Waters</u>. Wiley, 2015.
 
 Hadnagy, Christopher, and Ekman, Paul. <u>Unmasking the Social Engineer: The Human Element of Security</u>. Wiley, 2014.
