@@ -3,11 +3,6 @@ layout: page
 title: OSEEC Contents
 permalink: /contents/
 ---
-- [Special Thanks](/thankyou)
-- [Book List](/booklist)
-- [Streaming Media List](/streaming)
-- [Schedule](/schedule)
-<br>
 - Unit A - Carnegie
   - Week 1
   - Week 2
