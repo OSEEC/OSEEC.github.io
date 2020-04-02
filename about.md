@@ -9,9 +9,9 @@ permalink: /about/
 This course was designed as a framework to facilitate what I see as the most logical and effective way to learn about social engineering. In the following pages you will find a proposed 15 week schedule that can be easily adapted to be taught in a standard college semester. I leave it open enough to allow instructors to adapt and change to suit their particular needs and constraints. It can also be used by hacker meetup groups as a springboard for any trainings they want to offer their members, and also useful for the solo learner. 
 <br><br>
 Students will be guided through the study of 3 integral texts in this area: 
-<p>Carnegie, Dale. <u>How to Win Friends and Influence People</u>. Simon and Schuster, 2009.</p>
-<p>Dreeke, Robin, et al. <u>The Code of Trust: an American Counterintelligence Expert&#39;s Five Rules to Lead and Succeed</u>. St. Martins Griffin, 2019.</p>
-<p>Hadnagy, Christopher. <u>Social Engineering: the Science of Human Hacking</u>. Wiley, 2018.</p>
+<li><p>Carnegie, Dale. <u>How to Win Friends and Influence People</u>. Simon and Schuster, 2009.</p></li> 
+<li><p>Dreeke, Robin, et al. <u>The Code of Trust: an American Counterintelligence Expert&#39;s Five Rules to Lead and Succeed</u>. St. Martins Griffin, 2019.</p></li> 
+<li><p>Hadnagy, Christopher. <u>Social Engineering: the Science of Human Hacking</u>. Wiley, 2018.</p></li> 
 As students progress through each required reading, written responses and exercises will be included to reinforce the learning and give them an opportunity to get hands on experience. 
 <br>
 ### Contact me
