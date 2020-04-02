@@ -5,6 +5,8 @@ permalink: /contents/
 ---
 - Unit A - Carnegie
   - Week 1
+    - How To...Part 1, Sections 1-3
+    - How To...Part 2, Sections 1-3
   - Week 2
   - Week 3
   - Week 4
