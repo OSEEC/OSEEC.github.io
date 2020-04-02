@@ -15,7 +15,12 @@ Students will be guided through the study of 3 integral texts in this area:
 As students progress through each required reading, written responses and exercises will be included to reinforce the learning and give them an opportunity to get hands on experience. 
 <br>
 ### About Me
-
+Associate Faculty Butte College<br>
+National Cyber League Coach<br>
+SE Village DEFCON 27 speaker<br>
+<br>
+Cyber Security Consultant at <a href="https://www.mirolabs.info">Miro Labs</a><br>
+Host of <a href="https://sudosocialclub.com/">The Sudo Social Club</a><br>
 [Email](mailto:mirolabssec@protonmail.com)<br><br>
 <img src="/images/thumbs/OSEEC.PNG" alt="OSEEC" width="200" height="200">
 <br><br>
