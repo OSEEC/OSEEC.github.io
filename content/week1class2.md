@@ -2,6 +2,7 @@
 layout: page
 title: OSEEC Week 1 Class 2
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ng-SHgAYuKw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <a href="https://github.com/OSEEC/OSEEC.github.io/blob/master/content/Week%201%20B.pdf">Click Here For Slide PDF</a>
 <br><br>
