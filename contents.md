@@ -20,7 +20,7 @@ permalink: /contents/
     - [How To...Part 4, Sections  1-3](content/week4class2.md)  &#9733;
   - Week 5
     - [How To...Part 4, Sections  4-6](content/week5class1.md)  &#9733;
-    - [How To...Part 4, Sections  7-9](content/week5class2.md) 5/6/2020
+    - [How To...Part 4, Sections  7-9](content/week5class2.md) <i>5/6/2020</i>
 <br><br>
 - Unit B - Robin Dreeke - <u>The Code of Trust</u><br>
   - Week 6
