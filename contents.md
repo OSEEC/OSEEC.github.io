@@ -54,7 +54,7 @@ permalink: /contents/
     - [Science...Chapter 10](content/week14class1.md) <i>- 7/6/2020</i>
     - [Science...Chapter 11](content/week14class2.md) <i>- 7/8/2020</i>
 <br><br>
-- Special Event<br>
+- Special Event<br><br>
   - Week 15
     - [Special Guest Lecture or Event](content/week15class.md) <i>- 7/13/2020</i>
 <br>
