@@ -4,9 +4,8 @@ title: OSEEC Contents
 permalink: /contents/
 ---
 &#9733; = Done
-Check others for dates.
 
-- Unit A - Carnegie
+- Unit A - Dale Carnegie - <u>How to Win Friends and Influence People</u>
   - Week 1
     - [How To...Part 1, Sections 1-3](content/week1class1.md) &#9733;
     - [How To...Part 2, Sections 1-3](content/week1class2.md) &#9733;
@@ -23,7 +22,7 @@ Check others for dates.
     - [How To...Part 4, Sections 4-6](content/week5class1.md) &#9733;
     - [How To...Part 4, Sections 7-9](content/week5class2.md)
 <br>
-- Unit B - Dreeke
+- Unit B - Robin Dreeke - <u>The Code of Trust: an American Counterintelligence Expert&#39;s Five Rules to Lead and Succeed</u>
   - Week 6
     - [Code Of...Foreword, Appendix, Glossary](content/week6class1.md)
     - [Code Of...Part 1, Sections 1-2](content/week6class2.md)
@@ -36,7 +35,7 @@ Check others for dates.
   - Week 9a
     - [Code Of...Part 3, Sections 11-12](content/week9class1.md)
 <br>
-- Unit C - Hadnagy
+- Unit C - Christopher Hadnagy - <u>Social Engineering: the Science of Human Hacking</u>
   - Week 9b
     - [Science...Chapter 1](content/week9class2.md)
   - Week 10
