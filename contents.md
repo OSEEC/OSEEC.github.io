@@ -5,7 +5,7 @@ permalink: /contents/
 ---
 &#9733; = Done
 
-- Unit A - Dale Carnegie - <u>How to Win Friends and Influence People</u><br>
+- Unit A - Dale Carnegie - <u>How to Win Friends and Influence People</u><br><br>
   - Week 1
     - [How To...Part 1, Sections  1-3](content/week1class1.md)  &#9733;
     - [How To...Part 2, Sections  1-3](content/week1class2.md)  &#9733;
@@ -20,9 +20,9 @@ permalink: /contents/
     - [How To...Part 4, Sections  1-3](content/week4class2.md)  &#9733;
   - Week 5
     - [How To...Part 4, Sections  4-6](content/week5class1.md)  &#9733;
-    - [How To...Part 4, Sections  7-9](content/week5class2.md) <i>5/6/2020</i>
+    - [How To...Part 4, Sections  7-9](content/week5class2.md) <i>- 5/6/2020</i>
 <br><br>
-- Unit B - Robin Dreeke - <u>The Code of Trust</u><br>
+- Unit B - Robin Dreeke - <u>The Code of Trust</u><br><br>
   - Week 6
     - [Code Of...Foreword, Appendix, Glossary](content/week6class1.md) 5/11/2020
     - [Code Of...Part 1, Sections 1-2](content/week6class2.md) 5/13/2020
@@ -35,7 +35,7 @@ permalink: /contents/
   - Week 9a
     - [Code Of...Part 3, Sections 11-12](content/week9class1.md) 6/1/2020
 <br><br>
-- Unit C - Christopher Hadnagy - <u>Social Engineering: the Science of Human Hacking</u><br>
+- Unit C - Christopher Hadnagy - <u>Social Engineering: the Science of Human Hacking</u><br><br>
   - Week 9b
     - [Science...Chapter 1](content/week9class2.md) 6/3/2020
   - Week 10
