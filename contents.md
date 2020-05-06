@@ -3,6 +3,7 @@ layout: page
 title: OSEEC Contents
 permalink: /contents/
 ---
+&#9733; = Done!
 - Unit A - Carnegie
   - Week 1
     - [How To...Part 1, Sections 1-3](content/week1class1.md)
