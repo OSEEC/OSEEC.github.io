@@ -22,7 +22,7 @@ permalink: /contents/
     - [How To...Part 4, Sections 4-6](content/week5class1.md)  &#9733;
     - [How To...Part 4, Sections 7-9](content/week5class2.md)
 <br>
-- Unit B - Robin Dreeke - <u>The Code of Trust: an American Counterintelligence Expert&#39;s Five Rules to Lead and Succeed</u>
+- Unit B - Robin Dreeke - <u>The Code of Trust</u>
   - Week 6
     - [Code Of...Foreword, Appendix, Glossary](content/week6class1.md)
     - [Code Of...Part 1, Sections 1-2](content/week6class2.md)
