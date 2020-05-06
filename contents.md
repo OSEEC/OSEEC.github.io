@@ -6,19 +6,19 @@ permalink: /contents/
 &#9733; = Done!
 - Unit A - Carnegie
   - Week 1
-    - [How To...Part 1, Sections 1-3](content/week1class1.md)&#9733;
-    - [How To...Part 2, Sections 1-3](content/week1class2.md)&#9733;
+    - [How To...Part 1, Sections 1-3](content/week1class1.md) &#9733;
+    - [How To...Part 2, Sections 1-3](content/week1class2.md) &#9733;
   - Week 2
-    - [How To...Part 2, Sections 4-6](content/week2class1.md)&#9733;
-    - [How To...Part 3, Sections 1-3](content/week2class2.md)&#9733;
+    - [How To...Part 2, Sections 4-6](content/week2class1.md) &#9733;
+    - [How To...Part 3, Sections 1-3](content/week2class2.md) &#9733;
   - Week 3
-    - [How To...Part 3, Sections 4-6](content/week3class1.md)&#9733;
-    - [How To...Part 3, Sections 7-9](content/week3class2.md)&#9733;
+    - [How To...Part 3, Sections 4-6](content/week3class1.md) &#9733;
+    - [How To...Part 3, Sections 7-9](content/week3class2.md) &#9733;
   - Week 4
-    - [How To...Part 3, Sections 10-12](content/week4class1.md)&#9733;
-    - [How To...Part 4, Sections 1-3](content/week4class2.md)&#9733;
+    - [How To...Part 3, Sections 10-12](content/week4class1.md) &#9733;
+    - [How To...Part 4, Sections 1-3](content/week4class2.md) &#9733;
   - Week 5
-    - [How To...Part 4, Sections 4-6](content/week5class1.md)&#9733;
+    - [How To...Part 4, Sections 4-6](content/week5class1.md) &#9733;
     - [How To...Part 4, Sections 7-9](content/week5class2.md)
 <br>
 - Unit B - Dreeke
