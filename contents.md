@@ -24,7 +24,7 @@ permalink: /contents/
 <br><br>
 - Unit B - Robin Dreeke - <u>The Code of Trust</u><br><br>
   - Week 6
-    - [Code Of...Foreword, Appendix, Glossary](content/week6class1.md) <i>- 5/11/2020</i>
+    - [Code Of...Foreword, Appendix, Glossary](content/week6class1.md) &#9733;
     - [Code Of...Part 1, Sections 1-2](content/week6class2.md) <i>- 5/13/2020</i>
   - Week 7
     - [Code Of...Part 1, Sections 3-4](content/week7class1.md) <i>- 5/18/2020</i>
