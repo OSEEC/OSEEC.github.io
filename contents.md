@@ -27,7 +27,7 @@ permalink: /contents/
     - [Code Of...Foreword, Appendix, Glossary](content/week6class1.md) &#9733;
     - [Code Of...Part 1, Sections 1-2](content/week6class2.md) &#9733;
   - Week 7
-    - [Code Of...Part 1, Sections 3-4](content/week7class1.md) <i>- 5/18/2020</i>
+    - [Code Of...Part 1, Sections 3-4](content/week7class1.md) &#9733;
     - [Code Of...Part 2, Sections 5-6](content/week7class2.md) <i>- 5/20/2020</i>
   - Week 8
     - [Code Of...Part 2, Sections 7-8](content/week8class1.md) <i>- 5/25/2020</i>
