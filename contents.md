@@ -30,7 +30,7 @@ permalink: /contents/
     - [Code Of...Part 1, Sections 3-4](content/week7class1.md) &#9733;
     - [Code Of...Part 2, Sections 5-6](content/week7class2.md) &#9733;
   - Week 8
-    - [Code Of...Part 2, Sections 7-8](content/week8class1.md) <i>- 5/25/2020</i>
+    - [Code Of...Part 2, Sections 7-8](content/week8class1.md) &#9733;
     - [Code Of...Part 3, Sections 9-10](content/week8class2.md) <i>- 5/27/2020</i>
   - Week 9a
     - [Code Of...Part 3, Sections 11-12](content/week9class1.md) <i>- 6/1/2020</i>
