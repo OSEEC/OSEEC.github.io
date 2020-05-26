@@ -2,6 +2,7 @@
 layout: page
 title: OSEEC Week 8 Class 1
 ---
+<iframe width="320" height="320" src="https://www.youtube.com/embed/lputM8Sa0-Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 <a href="https://github.com/OSEEC/OSEEC.github.io/blob/master/content/Week%208%20A.pdf">Click Here For Slide PDF</a>
 <br><br>
