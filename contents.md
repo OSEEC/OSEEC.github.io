@@ -33,7 +33,7 @@ permalink: /contents/
     - [Code Of...Part 2, Sections 7-8](content/week8class1.md) &#9733;
     - [Code Of...Part 3, Sections 9-10](content/week8class2.md) &#9733;
   - Week 9a
-    - [Code Of...Part 3, Sections 11-12](content/week9class1.md) <i>- 6/1/2020</i>
+    - [Code Of...Part 3, Sections 11-12](content/week9class1.md) &#9733;
 <br><br>
 - Unit C - Christopher Hadnagy - <u>Social Engineering: the Science of Human Hacking</u><br><br>
   - Week 9b
