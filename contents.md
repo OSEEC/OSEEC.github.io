@@ -40,7 +40,7 @@ permalink: /contents/
     - [Science...Chapter 1](content/week9class2.md) &#9733;
   - Week 10
     - [Science...Chapter 2](content/week10class1.md) &#9733;
-    - [Science...Chapter 3](content/week10class2.md) <i>- 6/10/2020</i>
+    - [Science...Chapter 3](content/week10class2.md) &#9733;
   - Week 11
     - [Science...Chapter 4](content/week11class1.md) <i>- 6/15/2020</i>
     - [Science...Chapter 5](content/week11class2.md) <i>- 6/17/2020</i>
