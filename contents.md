@@ -48,15 +48,15 @@ permalink: /contents/
     - [Science...Chapter 6](content/week12class1.md) &#9733;
     - [Science...Chapter 7](content/week12class2.md) &#9733;
   - Week 13
-    - [Science...Chapter 8](content/week13class1.md) <i>- 6/29/2020</i>
-    - [Science...Chapter 9](content/week13class2.md) <i>- 7/1/2020</i>
+    - [Science...Chapter 8](content/week13class1.md) <i>- 7/8/2020</i>
+    - [Science...Chapter 9](content/week13class2.md) <i>- 7/8/2020</i>
   - Week 14
-    - [Science...Chapter 10](content/week14class1.md) <i>- 7/6/2020</i>
-    - [Science...Chapter 11](content/week14class2.md) <i>- 7/8/2020</i>
+    - [Science...Chapter 10](content/week14class1.md) <i>- 7/13/2020</i>
+    - [Science...Chapter 11](content/week14class2.md) <i>- 7/13/2020</i>
 <br><br>
 - Special Event<br><br>
   - Week 15
-    - [Special Guest Lecture or Event](content/week15class.md) <i>- 7/13/2020</i>
+    - [Special Guest Lecture or Event](content/week15class.md) <i>- 7/15/2020</i>
 <br>
 <br><br><br>
 <h6 style="font-size:10px;"><a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 United States License</a></h6>
