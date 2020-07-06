@@ -45,8 +45,8 @@ permalink: /contents/
     - [Science...Chapter 4](content/week11class1.md) &#9733;
     - [Science...Chapter 5](content/week11class2.md) &#9733;
   - Week 12
-    - [Science...Chapter 6](content/week12class1.md) <i>- 6/22/2020</i>
-    - [Science...Chapter 7](content/week12class2.md) <i>- 6/24/2020</i>
+    - [Science...Chapter 6](content/week12class1.md) <i>- &#9733;
+    - [Science...Chapter 7](content/week12class2.md) <i>- &#9733;
   - Week 13
     - [Science...Chapter 8](content/week13class1.md) <i>- 6/29/2020</i>
     - [Science...Chapter 9](content/week13class2.md) <i>- 7/1/2020</i>
